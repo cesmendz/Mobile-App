@@ -1,0 +1,135 @@
+    <ScrollView>
+        <VerticalStackLayout>
+            <Frame
+                HorizontalOptions="Center"    
+                Margin="10"
+                BorderColor="Black"
+                CornerRadius="100"
+                Background="beige"
+                HeightRequest="200"
+                WidthRequest="200">
+
+                <Image   
+                 Source="logo.png"
+                 SemanticProperties.Description="Logo for app"
+                 Scale="2"   
+                 HorizontalOptions="Center" 
+/>
+            </Frame>
+
+            <Label
+                    Text="Claim Now!"
+                    FontSize="60"
+                    TextColor="Beige"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    Margin="20"
+                    />
+
+            <FlexLayout 
+                  Wrap="Wrap"
+                  JustifyContent="Center">
+
+
+                <Frame VerticalOptions="Center" 
+                       Margin="20"
+                       BackgroundColor="Beige"
+                       HeightRequest="300"
+                       WidthRequest="800">
+
+                    <Image
+                        Source="v1.png" />
+                </Frame>
+
+                <Frame
+                    HorizontalOptions="Fill"
+                    HeightRequest="90"
+                    WidthRequest="500"
+                    BackgroundColor="Beige"
+                    CornerRadius="40">
+
+                    <Label                        
+                        Text="CLAIM VOUCHER"
+                        HorizontalTextAlignment="Center"                        
+                        FontSize="30"                        
+                        />
+                </Frame>
+
+                <Frame VerticalOptions="Center" 
+                       Margin="20"
+                       BackgroundColor="Beige"
+                       HeightRequest="300"
+                       WidthRequest="800">
+
+                    <Image
+                        Source="v2.png" />
+                </Frame>
+
+                <Frame
+                        HorizontalOptions="Fill"
+                        HeightRequest="90"
+                        WidthRequest="500"
+                        BackgroundColor="Beige"
+                        CornerRadius="40">
+
+                    <Label                        
+                        Text="CLAIM VOUCHER"
+                        HorizontalTextAlignment="Center"                        
+                        FontSize="30"                        
+        />
+                </Frame>
+
+                <Frame VerticalOptions="Center" 
+               Margin="20"
+               BackgroundColor="Beige"
+               HeightRequest="300"
+               WidthRequest="800">
+
+                    <Image
+                Source="v3.png" />
+                </Frame>
+
+                <Frame
+                HorizontalOptions="Fill"
+                HeightRequest="90"
+                WidthRequest="500"
+                BackgroundColor="Beige"
+                CornerRadius="40">
+
+                    <Label                        
+                Text="CLAIM VOUCHER"
+                HorizontalTextAlignment="Center"                        
+                FontSize="30"                        
+/>
+                </Frame>
+
+                <Frame VerticalOptions="Center" 
+               Margin="20"
+               BackgroundColor="Beige"
+               HeightRequest="300"
+               WidthRequest="800">
+
+                    <Image
+                Source="v4.png" />
+                </Frame>
+
+                <Frame
+                HorizontalOptions="Fill"
+                HeightRequest="90"
+                WidthRequest="500"
+                BackgroundColor="Beige"
+                CornerRadius="40">
+
+                    <Label                        
+                Text="CLAIM VOUCHER"
+                HorizontalTextAlignment="Center"                        
+                FontSize="30"                        
+/>
+                </Frame>
+
+
+            </FlexLayout>
+
+        </VerticalStackLayout>
+
+    </ScrollView>
