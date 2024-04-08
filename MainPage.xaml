@@ -1,0 +1,30 @@
+<ScrollView>
+    <VerticalStackLayout
+        Padding="20,0"
+        Spacing="5"
+        HorizontalOptions="Center"
+        VerticalOptions="Center">
+        <Image
+            Source="logo.png"
+            HeightRequest="300"
+            Aspect="AspectFit"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"/>
+
+        <Label
+            Text="Mobile Haven"
+            FontSize="80"
+            TextColor="Beige"
+            HorizontalOptions="Center"
+            VerticalOptions=   "Center"/>
+
+        <Label
+            Text="Enjoy Shopping!"
+            FontSize="40"
+            TextColor="Beige"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"/>
+
+        
+    </VerticalStackLayout>
+</ScrollView>
