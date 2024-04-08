@@ -1,0 +1,25 @@
+
+    <ScrollView>
+        <VerticalStackLayout
+        Padding="30,0"
+        Spacing="5"
+            HorizontalOptions="Center"
+            VerticalOptions="Center">
+
+            <Label
+            Text="Cart is empty."
+            FontSize="80"
+                TextColor="Beige"
+            HorizontalOptions="Center"
+            VerticalOptions=   "Center"/>
+
+            <Label
+            Text="Looks like you have no item in your shopping cart"
+                TextColor="Gray"
+            FontSize="30"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"/>
+
+
+        </VerticalStackLayout>
+    </ScrollView>
