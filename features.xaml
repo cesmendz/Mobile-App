@@ -1,0 +1,45 @@
+<ScrollView>
+
+    <StackLayout Margin="10"
+                     HorizontalOptions="Center"
+                     VerticalOptions="Center"
+                     Padding="30,0"
+                     Spacing="20">
+
+        <Label Text="About Us"
+                   FontSize="70"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   TextColor="Beige"/>
+
+        <Label Text="* Since customers can use their cellphones to shop from anywhere at any time, a mobile shop provides the utmost in convenience. This saves time and effort by removing the need to visit a real store."
+                   FontSize="30"
+                   TextColor= "White" />
+
+        <Label Text="* Our mobile shop typically have a vast product range, allowing customers to browse and purchase a variety of items from different categories. This makes it easier for customers to find what they need without the limitations of a physical store's shelf space."
+                   FontSize="30"
+                   TextColor= "White" />
+
+        <Label Text="* User-friendly Interface: Our Mobile shop are designed with user experience in mind, ensuring that the interface is easy to navigate and understand. This makes it simple for customers to find products, compare prices, and make purchases with just a few taps on their screens."
+                   FontSize="30"
+                   TextColor="White"/>
+
+        <Label Text="* This mobile shop often use customer data and browsing history to offer personalized recommendations, ensuring that customers find products that match their preferences and interests."
+                   FontSize="30"
+                   TextColor="White" />
+
+        <Label Text="* This mobile shop often provide exclusive deals, discounts, and offers that are not available in physical stores. This helps customers save money while enjoying a unique shopping experience."
+                   FontSize="30"
+                   TextColor= "White" />
+
+        <Label Text="* Shopping on a mobile platform reduces the need for physical store construction, transportation of goods, and paper-based marketing materials, making it an eco-friendly choice for environmentally conscious customers."
+                   FontSize="30"
+                   TextColor="White" />
+
+        <Label Text="* This mobile shop often provide 24/7 customer support through various channels like email, phone, or live chat. This ensures that customers can get help and resolve any issues they face during their shopping experience."
+                   FontSize="30"
+                   TextColor="White" />
+    </StackLayout>
+
+</ScrollView>
