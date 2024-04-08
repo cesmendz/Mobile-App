@@ -1,0 +1,203 @@
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="10">
+
+
+
+            <Frame HorizontalOptions="Center" 
+                Margin="10" 
+                BorderColor="Black" 
+                CornerRadius="100" 
+                Background="WhiteSmoke" 
+                HeightRequest="200" 
+                WidthRequest="200">
+
+
+                <Image Source="logo.png" 
+                    SemanticProperties.Description="Logo for app" 
+                    Scale="2" 
+                    HorizontalOptions="Center" />
+            </Frame>
+
+
+
+
+            <Label Text="MOBILE HAVEN" 
+                TextColor="White" 
+                FontSize="50" 
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+
+
+            <FlexLayout Wrap="Wrap" 
+                     JustifyContent="Center">
+
+                <Frame VerticalOptions="Center" 
+                    Margin="20" 
+                    BackgroundColor="White" 
+                    HeightRequest="350" 
+                    WidthRequest="350">
+
+
+                    <Image Source="p1.png"
+                     SemanticProperties.Description="mobile"
+                     Scale="1"
+                     VerticalOptions="Center"
+                     HorizontalOptions="Center" />
+
+                </Frame>
+
+
+
+
+                <Frame VerticalOptions="Center" 
+                    BackgroundColor="White" 
+                    Margin="20" 
+                    HeightRequest="350"
+                    WidthRequest="350">
+
+                    <Image Source="p2.png"
+                        SemanticProperties.Description="mobile"
+                        Scale="1"
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center" />
+                </Frame>
+
+                <Frame VerticalOptions="Center" 
+                    BackgroundColor="White" Margin="20" 
+                    HeightRequest="350" 
+                    WidthRequest="350">
+
+                    <Image Source="p3.png"
+                     SemanticProperties.Description="mobile"
+                     Scale="1"
+                     VerticalOptions="Center"
+                     HorizontalOptions="Center" />
+                </Frame>
+
+
+                <Frame VerticalOptions="Center" 
+                    BackgroundColor="White" 
+                    Margin="20" 
+                    HeightRequest="350" 
+                    WidthRequest="350">
+
+                    <Image Source="p4.png"
+                     SemanticProperties.Description="mobile"
+                     Scale="1"
+                     VerticalOptions="Center"
+                     HorizontalOptions="Center" />
+                </Frame>
+
+
+                <Frame VerticalOptions="Center" 
+                    BackgroundColor="White" 
+                    Margin="20" 
+                    HeightRequest="350" 
+                    WidthRequest="350">
+
+                    <Image Source="p5.png"
+                     SemanticProperties.Description="mobile"
+                     Scale="1"
+                     VerticalOptions="Center"
+                     HorizontalOptions="Center" />
+                </Frame>
+
+
+                <Frame VerticalOptions="Center" 
+                    BackgroundColor="White" 
+                    Margin="20" 
+                    HeightRequest="350" 
+                    WidthRequest="350">
+
+                    <Image Source="p6.png"
+                 SemanticProperties.Description="mobile"
+                 Scale="1"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center" />
+                </Frame>
+
+                <Frame VerticalOptions="Center"
+                    BackgroundColor="White"
+                    Margin="20" HeightRequest="350" 
+                    WidthRequest="350">
+
+                    <Image Source="p7.png"
+                     SemanticProperties.Description="mobile"
+                     Scale="1"
+                     VerticalOptions="Center"
+                     HorizontalOptions="Center" />
+                </Frame>
+
+
+                <Frame VerticalOptions="Center" 
+                    BackgroundColor="White" 
+                    Margin="20" 
+                    HeightRequest="350"
+                    WidthRequest="350">
+
+                    <Image Source="p8.png"
+                 SemanticProperties.Description="mobile"
+                 Scale="1"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center" />
+                </Frame>
+
+
+                <Frame VerticalOptions="Center" 
+                    BackgroundColor="White" 
+                    Margin="20" 
+                    HeightRequest="350" 
+                    WidthRequest="350">
+
+                    <Image Source="p10.png"
+                     SemanticProperties.Description="mobile"
+                     Scale="1"
+                     VerticalOptions="Center"
+                     HorizontalOptions="Center" />
+                </Frame>
+
+                <Frame VerticalOptions="Center" 
+                    BackgroundColor="White" 
+                    Margin="20" 
+                    HeightRequest="350"
+                    WidthRequest="350">
+
+                    <Image Source="p9.png"
+                 SemanticProperties.Description="mobile"
+                 Scale="1"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center" />
+                </Frame>
+
+
+                <Frame VerticalOptions="Center" 
+                BackgroundColor="White" 
+                Margin="20" 
+                HeightRequest="350"
+                WidthRequest="350">
+
+                    <Image Source="p11.png"
+                 SemanticProperties.Description="mobile"
+                 Scale="1"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center" />
+                </Frame>
+
+
+                <Frame VerticalOptions="Center" 
+                BackgroundColor="White" 
+                Margin="20" 
+                HeightRequest="350"
+                WidthRequest="350">
+
+                    <Image Source="p12.png"
+                 SemanticProperties.Description="mobile"
+                 Scale="1"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center" />
+                </Frame>
+
+            </FlexLayout>
+        </VerticalStackLayout>
+    </ScrollView>
