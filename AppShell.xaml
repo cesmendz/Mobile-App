@@ -1,0 +1,44 @@
+<TabBar>
+    <Tab Title="Home" Icon="home.png">
+        <ShellContent
+            Title="Home"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+    </Tab>
+
+    <Tab Title="Phones" Icon="brand.png">
+        <ShellContent
+     Title="Phones"
+     ContentTemplate="{DataTemplate local:cellphone}"
+     Route="Phones" />
+    </Tab>
+
+    <Tab Title="Cart" Icon="cart.png">
+        <ShellContent
+     Title="Cart"
+     ContentTemplate="{DataTemplate local:cart}"
+     Route="Cart" />
+    </Tab>
+
+
+    <Tab Title="Voucher" Icon="coupon.png">
+        <ShellContent
+     Title="Voucher"
+     ContentTemplate="{DataTemplate local:voucher}"
+     Route="Voucher" />
+    </Tab>
+
+    <Tab Title="Features" Icon="features.png">
+        <ShellContent
+      Title="Features"
+      ContentTemplate="{DataTemplate local:features}"
+      Route="Features" />
+    </Tab>
+
+    <Tab Title="Inquiries" Icon="inquiries.png">
+        <ShellContent
+     Title="Inquiries"
+     ContentTemplate="{DataTemplate local:inquiries}"
+     Route="Inquiries" />
+    </Tab>
+</TabBar>
